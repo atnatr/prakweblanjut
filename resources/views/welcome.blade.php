@@ -32,7 +32,7 @@
             @endif
 
             <div class="admint">
-                Berli Anta Atrizki - 2217051076
+                Berli Anta Atrizki - 2217051076.
             </div>
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
